@@ -138,7 +138,7 @@ Optional Challenge - A real webpage
 - Replace the placeholder text with info about you / a made up company / ...  
 - Add your own css file and make some changes.  
 - Add images to your webpage.
-
+- Finished and proud of your webpage? Talk to a coach to host your website online.
 
 
 
