@@ -67,6 +67,7 @@ Use the documentation on MDN to find the best tags for the following content:
 - [HTML basics on MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [freecodecamp course](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 - [html5doctor](http://html5doctor.com/)
+- [CodeCademy course](https://www.codecademy.com/learn/learn-html)
 - [Just google it !](google.com)
 
 #### Challenge
@@ -107,8 +108,6 @@ In the above example we added a **"class" attribute** to the h1 tag. We can now 
 	color: red;
 }
 ```
-
-
 
 #### Useful resources
 
