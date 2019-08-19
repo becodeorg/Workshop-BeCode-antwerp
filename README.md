@@ -67,13 +67,14 @@ Use the documentation on MDN to find the best tags for the following content:
 - [HTML basics on MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [freecodecamp course](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 - [html5doctor](http://html5doctor.com/)
+- [CodeCademy course](https://www.codecademy.com/learn/learn-html)
 - [Just google it !](google.com)
 
 #### Challenge
 
 Write our own about page:  
 - Go to [codepen.io](https://codepen.io/pen), here you can create different 'pens' to **experiment with html, css and javascript.**  
-- Write something about yourself, why your here, ... Add a **title**, a **header** and a **footer**.  
+- Write something about yourself, why your here, ... Add a **h1 tag**, a **header** and a **footer**.  
 - Compare your about page with your neighbour. Did you use the same tags, and why (not)? **Discuss**!
 - Try to add an image to your page.
 
@@ -108,8 +109,6 @@ In the above example we added a **"class" attribute** to the h1 tag. We can now 
 }
 ```
 
-
-
 #### Useful resources
 
 - [CSS on mdn](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
@@ -139,7 +138,7 @@ Optional Challenge - A real webpage
 - Replace the placeholder text with info about you / a made up company / ...  
 - Add your own css file and make some changes.  
 - Add images to your webpage.
-
+- Finished and proud of your webpage? Talk to a coach to host your website online.
 
 ### Advanced: JavaScript
 
