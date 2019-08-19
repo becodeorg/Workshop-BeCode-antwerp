@@ -74,7 +74,7 @@ Use the documentation on MDN to find the best tags for the following content:
 
 Write our own about page:  
 - Go to [codepen.io](https://codepen.io/pen), here you can create different 'pens' to **experiment with html, css and javascript.**  
-- Write something about yourself, why your here, ... Add a **h1 tag**, a **header** and a **footer**.  
+- Write something about yourself, why you're here, ... Add a **h1 tag**, a **header** and a **footer**.  
 - Compare your about page with your neighbour. Did you use the same tags, and why (not)? **Discuss**!
 - Try to add an image to your page.
 
