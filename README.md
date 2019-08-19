@@ -157,7 +157,7 @@ And learning the basics correctly is very important for your future as a develop
 
 Most good tutorials start with a decent portion of theory before you get to the actual programming. 
 
-If you just want to start writing some JavaScript code right to discover what it can do, you can follow [this introduction](http://jsforcats.com/) on JavaScript.
+If you just want to start writing some JavaScript code as soon as possible to discover what it can do, you can follow [this introduction](http://jsforcats.com/) on JavaScript.
 
 
 
