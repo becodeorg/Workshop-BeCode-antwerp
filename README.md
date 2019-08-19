@@ -141,5 +141,24 @@ Optional Challenge - A real webpage
 - Add images to your webpage.
 
 
+### Advanced: JavaScript
+
+![js](./images/js.png)
+
+With HTML and CSS we can give structure and styling to the content we display on our webpage. The webpages we can create with HTML and CSS are **not very interactive**.  
+
+We want our webpage to change depending on the behaviour of our user. If they for example click a button, or scroll to the bottom of the page we want something to happen.  
+To achieve this we can use **JavaScript**, the programming language of the web. 
+
+It is **not possible to explain JavaScript** and all its use cases **in one workshop**. 
+And learning the basics correctly is very important for your future as a developer. If you want to start learning JavaScript today, there are some really good, **free resources online** such as: 
+
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [MDN JS documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Most good tutorials start with a decent portion of theory before you get to the actual programming. 
+
+If you just want to start writing some JavaScript code right to discover what it can do, you can follow [this introduction](http://jsforcats.com/) on JavaScript.
+
 
 
