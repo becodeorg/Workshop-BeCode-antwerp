@@ -1,0 +1,32 @@
+<form method="get">
+    <input type="number" id="number1" placeholder="First number"> <br />
+    <input type="number" id="number2" placeholder="Second number"> <br />
+
+    <button id="plus" type="button">+</button>
+    <button id="min" type="button">-</button>
+    <button id="multiply" type="button">*</button>
+    <button id="divide" type="button">/</button>
+
+    <br />
+
+    <input type="number" id="result" placeholder="Result">
+</form>
+
+<script>
+    document.getElementById('plus').addEventListener('click', function() {
+        var endresult = parseInt(document.getElementById('number1').value) + parseInt(document.getElementById('number2').value);
+        document.getElementById('result').value = endresult;
+    });
+
+    document.getElementById('min').addEventListener('click', function() {
+        //@todo: look at the working code from plus and modify it so you can do minus
+    });
+
+    document.getElementById('multiply').addEventListener('click', function() {
+        //@todo: look at the working code from plus and modify it so you can do multiply
+    });
+
+    document.getElementById('divide').addEventListener('click', function() {
+        //@todo: look at the working code from plus and modify it so you can do divide
+    });
+</script>
