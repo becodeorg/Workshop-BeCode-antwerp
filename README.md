@@ -134,10 +134,10 @@ In the above example we added a **"class" attribute** to the h1 tag. We can now 
 
 Add CSS to your html page.
 
-- Add a class 'red' to your title to turn the text red.
+- Add a class 'red' to your header to turn the text red.
 - Use **descriptive names** for your classes.  
 - Change the **background color** of the page.  
-- Change the **font** of your title.  
+- Change the **font** of your header.  
 - ...
 
 ### Optional Challenge - A real webpage
